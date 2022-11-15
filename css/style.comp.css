@@ -1,0 +1,9 @@
+.slider {
+  align-items: center;
+  padding: 0 10px;
+  margin: 30px auto;
+  width: 80%; }
+  .slider img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; }
